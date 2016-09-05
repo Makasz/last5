@@ -8,18 +8,17 @@
 </head>
 <body class="xp-slide">
 	<div class="xp-row center" style="height: 100%">
-		<xp-timer>30</xp-timer>
+		<xp-timer>20</xp-timer>
 		<h1>Sprint 1 - HTML and CSS</h1>
 		<h2>Basic</h2>
 		<ol class="xp-tasks">
-			<li>Display 4 images in each gallery</li>
-			<li>Based on CSS file display a form that adds a new gallery</li>
-			<li>Display a list of existing galleries and for each add a remove button</li>
+			<li>Task 1</li>
+			<li>Task 2</li>
+			<li>Task 3</li>
 		</ol>
 		<h2>Additional</h2>
 		<ol class="xp-tasks">
-			<li>Add a fixed width and height to images</li>
-			<li>Add animations for images (e.g. for hover)</li>
+			<li>Ad.Task1</li>
 		</ol>
 	</div>
 </body>
