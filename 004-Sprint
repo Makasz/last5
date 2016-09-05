@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xp-run-server-url="https://xpla.org">
+<head>
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Sprint 1</title>
+    <script src="https://xpla.org/static/js/slide_loader.3.0.0.js"></script>
+</head>
+<body class="xp-slide">
+	<div class="xp-row center" style="height: 100%">
+		<xp-timer>30</xp-timer>
+		<h1>Sprint 1 - HTML and CSS</h1>
+		<h2>Basic</h2>
+		<ol class="xp-tasks">
+			<li>Display 4 images in each gallery</li>
+			<li>Based on CSS file display a form that adds a new gallery</li>
+			<li>Display a list of existing galleries and for each add a remove button</li>
+		</ol>
+		<h2>Additional</h2>
+		<ol class="xp-tasks">
+			<li>Add a fixed width and height to images</li>
+			<li>Add animations for images (e.g. for hover)</li>
+		</ol>
+	</div>
+</body>
+</html>
